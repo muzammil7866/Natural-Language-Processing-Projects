@@ -1,43 +1,57 @@
-# Natural Language Processing Projects 🗣️
+# Natural Language Processing Projects
 
-This repository is a professional NLP portfolio focused on language understanding, conversational systems, and text intelligence workflows, combining applied engineering with selected BS AI coursework foundations.
+This repository is a professional NLP portfolio centered on language understanding, conversational systems, and text intelligence workflows, informed by practical engineering and selected BS AI coursework.
 
-## 🎯 Purpose
+## Table of Contents
 
-The objective is to design and evaluate NLP solutions that bridge research concepts with real business and product applications.
+- [Overview](#overview)
+- [Business Goals](#business-goals)
+- [Technology Stack](#technology-stack)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Repository Guidelines](#repository-guidelines)
+- [Code Guidelines](#code-guidelines)
+- [Future Direction](#future-direction)
 
-## 💼 Business Goals
+## Overview
 
-- Transform unstructured text into actionable insight for decision support.
-- Improve customer interaction quality through conversational AI systems.
-- Enable scalable content analysis, classification, and semantic search workflows.
-- Build language AI assets that can integrate into enterprise software pipelines.
+The repository focuses on building and evaluating NLP solutions that connect research concepts to business-oriented product scenarios.
 
-## 🧰 Tech Stack
+## Business Goals
 
-- Languages: Python
-- NLP Libraries: NLTK, spaCy, Gensim, Hugging Face ecosystem (as required)
-- Modeling Approaches: Rule-based systems, embeddings, transformer-based methods
-- Data and Analysis: Pandas, NumPy, visualization tooling
-- Workflow: Jupyter, script-based experimentation, Git/GitHub
+- Convert unstructured text into actionable insights for decision support.
+- Improve customer communication quality through conversational AI patterns.
+- Enable scalable text processing, classification, and semantic retrieval workflows.
+- Build reusable NLP assets that integrate into broader AI systems.
 
-## 🧠 Engineering Areas
+## Technology Stack
 
-- Conversational AI and chatbot design
-- Prompt engineering and iterative evaluation
-- Word and sentence embedding exploration
-- Text preprocessing, feature extraction, and model benchmarking
+- Language: Python
+- NLP tooling: NLTK, spaCy, Gensim, Hugging Face ecosystem (project dependent)
+- Modeling approaches: rule-based methods, embeddings, transformer-based workflows
+- Data and analysis: Pandas, NumPy, visualization libraries
+- Workflow: notebooks, scripts, Git/GitHub
 
-## 🚀 Future Direction
+## How to Use This Repository
 
-This repository is not confined to current projects. Future work may include:
-- Retrieval-augmented generation and domain-specific assistants
-- Fine-tuned language models for vertical use cases
-- LLM evaluation frameworks and guardrail design
-- NLP pipelines for production analytics and automation
+1. Open a project folder aligned to your NLP objective.
+2. Read local setup notes and dependency requirements.
+3. Install the required environment packages.
+4. Run scripts/notebooks and evaluate outputs for your use case.
 
-## 📌 Navigation
+## Repository Guidelines
 
-- Each folder represents a focused NLP implementation or experiment.
-- Structure and dependencies may vary by project maturity and objective.
-- New projects will continue to be added to reflect expanding NLP and LLM capabilities.
+- Keep each project folder focused on a single NLP objective.
+- Document input data assumptions and expected output formats.
+- Isolate reusable preprocessing and modeling utilities where possible.
+- Keep experiment notes concise and traceable.
+
+## Code Guidelines
+
+- Separate preprocessing, modeling, and evaluation stages.
+- Use configuration-driven parameters for repeatability.
+- Keep prompt templates, model settings, and evaluation criteria explicit.
+- Prefer clear function boundaries and minimal hidden side effects.
+
+## Future Direction
+
+This repository will continue expanding with advanced language model workflows, retrieval-enabled systems, stronger evaluation practices, and deployment-oriented NLP pipelines.
