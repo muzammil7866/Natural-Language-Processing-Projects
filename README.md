@@ -1,6 +1,6 @@
 # Natural Language Processing Projects 🗣️
 
-This repository is a professional NLP portfolio focused on language understanding, conversational systems, and text intelligence workflows.
+This repository is a professional NLP portfolio focused on language understanding, conversational systems, and text intelligence workflows, combining applied engineering with selected BS AI coursework foundations.
 
 ## 🎯 Purpose
 
