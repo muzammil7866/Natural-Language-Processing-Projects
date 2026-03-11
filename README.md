@@ -15,10 +15,7 @@ This repository is a professional NLP portfolio centered on language understandi
 ## Overview
 
 The repository focuses on building and evaluating NLP solutions that connect research concepts to business-oriented product scenarios.
-
-## BS AI Coursework Context
-
-Relevant coursework influence in this repository includes natural language processing foundations, knowledge representation ideas, and applied AI experimentation.
+It also includes selected implementations linked to BS AI coursework in language and intelligent systems.
 
 ## Business Goals
 
