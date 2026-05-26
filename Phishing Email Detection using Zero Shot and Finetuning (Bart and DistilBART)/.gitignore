@@ -1,0 +1,25 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.so
+.env
+.vscode/
+.DS_Store
+data/
+
+# Data and models
+*.safetensors
+*.pt
+*.bin
+final_phishing_bart_model/
+local_email_classifier/
+hf_email_classifier/
+mlruns/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
